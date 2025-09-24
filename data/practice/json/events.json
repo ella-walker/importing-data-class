@@ -1,0 +1,23 @@
+[
+  {
+    "event": "lecture",
+    "when": "2024-01-15",
+    "attendees": [
+      {
+        "name": "Alice"
+      },
+      {
+        "name": "Bob"
+      }
+    ]
+  },
+  {
+    "event": "lab",
+    "when": "2024-01-16",
+    "attendees": [
+      {
+        "name": "Chris"
+      }
+    ]
+  }
+]

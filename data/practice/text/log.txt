@@ -1,0 +1,3 @@
+[2024-01-05 10:00:00] INFO: job started
+[2024-01-05 10:01:02] WARN: task took longer than expected
+[2024-01-05 10:02:15] ERROR: failed to open file /tmp/data.csv

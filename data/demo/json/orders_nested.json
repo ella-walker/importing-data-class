@@ -1,0 +1,48 @@
+[
+  {
+    "order_id": "A100",
+    "customer": {
+      "id": 1,
+      "name": "Alice"
+    },
+    "items": [
+      {
+        "sku": "WID-001",
+        "qty": 2,
+        "price": 9.99
+      },
+      {
+        "sku": "GAD-010",
+        "qty": 1,
+        "price": 29.5
+      }
+    ],
+    "shipping": {
+      "city": "Boston",
+      "state": "MA"
+    }
+  },
+  {
+    "order_id": "A101",
+    "customer": {
+      "id": 2,
+      "name": "Bob"
+    },
+    "items": [
+      {
+        "sku": "WID-001",
+        "qty": 1,
+        "price": 9.99
+      },
+      {
+        "sku": "DD-404",
+        "qty": 5,
+        "price": 3.75
+      }
+    ],
+    "shipping": {
+      "city": "Seattle",
+      "state": "WA"
+    }
+  }
+]
