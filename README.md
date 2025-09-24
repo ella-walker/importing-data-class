@@ -21,8 +21,8 @@ importing-data-class/
 ## Setup
 
 ```bash
-python -m venv .venv && source .venv/bin/activate  # or use conda
-pip install -r requirements.txt
+uv init
+uv add ipykernel pandas lxml openpyxl
 ```
 
 ## Demo outline
